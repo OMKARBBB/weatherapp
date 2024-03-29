@@ -17,14 +17,6 @@ h1 {
   padding: 18px 0;
   color: #ffffffe5;
 }
-/* .container {
-    display: flex;
-    gap: 35px;
-    padding: 30px;
-    background: #f0f0f0; /* Background color for container */
-    border-radius: 20px; /* Apply border radius */
-    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.1), -8px -8px 16px rgba(255, 255, 255, 0.5); /* Neumorphic box shadow */
-  } */
   h1 {
     background: #5372F0;
     font-size: 1.75rem;
