@@ -7,34 +7,15 @@
   font-family: 'Open Sans', sans-serif;
 }
 body {
-  background: #070c0f;
-  
+  background: #E3F2FD;
 }
 h1 {
-  background: #364a52;
+  background: #5372F0;
   font-size: 1.75rem;
   text-align: center;
   padding: 18px 0;
-  color: #ffffffe5;
+  color: #fff;
 }
-  h1 {
-    background: #5372F0;
-    font-size: 1.75rem;
-    text-align: center;
-    padding: 18px 0;
-    color: #fff;
-    border-radius: 10px; /* Apply border radius */
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1), -4px -4px 10px rgba(255, 255, 255, 0.5); /* Neumorphic box shadow */
-  }
-  .weather-cards .card {
-    color: #fff;
-    padding: 18px 16px;
-    list-style: none;
-    width: calc(100% / 5);
-    background: #6C757D;
-    border-radius: 10px; /* Apply border radius */
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2), -5px -5px 10px rgba(255, 255, 255, 0.5); /* Neumorphic box shadow with adjusted color */
-  }
 .container {
   display: flex;
   gap: 35px;
@@ -134,14 +115,14 @@ h1 {
   display: flex;
   gap: 20px;
 }
-/* .weather-cards .card {
+.weather-cards .card {
   color: #fff;
   padding: 18px 16px;
   list-style: none;
   width: calc(100% / 5);
   background: #6C757D;
   border-radius: 5px;
-} */
+}
 .weather-cards .card h3 {
   font-size: 1.3rem;
   font-weight: 600;
